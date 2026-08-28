@@ -14,5 +14,5 @@ As we are using unity as the game engine instead of GameMaker, there are many th
 
 The Bigger Picture
 We wanna make a whole game instead of just the trio fight, we are just starting off with making the trio fight to establish the core mechanics first, as it is the most humerus and engaging part of our vision.
-
+ 
 We are aiming to release our first beta before October.
