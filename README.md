@@ -10,7 +10,9 @@ Instead of a normal trio fight, where each sans changes their phases according t
 We also add extra mechanics and events which is used to trigger different endings.
 <img width="629" height="477" alt="Screenshot (1817)" src="https://github.com/user-attachments/assets/5e0239cc-0029-4823-863f-b64440d367cd" />
 
-As we are using unity as the game engine instead of GameMaker, there are many things we need to work around with. The game is still in early development. Hopefully we can dish out our first beta before October.
+As we are using unity as the game engine instead of GameMaker, there are many things we need to work around with. The game is still in early development.
+
 The Bigger Picture
 We wanna make a whole game instead of just the trio fight, we are just starting off with making the trio fight to establish the core mechanics first, as it is the most humerus and engaging part of our vision.
+
 We are aiming to release our first beta before October.
